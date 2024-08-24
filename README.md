@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohamedsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohamedsaleh" /> </p>
 
-- 🔭 I’m currently working on [Thimar](https://github.com/MohamedMohamedSaleh/Thimar)
+- 🔭 I’m currently working on [Gemini Chat](https://github.com/MohamedMohamedSaleh/Gemini-Chat)
 
 - 🌱 I’m currently learning **Flutter**
 
